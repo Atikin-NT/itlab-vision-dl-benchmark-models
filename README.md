@@ -1,1 +1,2 @@
-# itlab-vision-dl-benchmark-models
+# Repository for storing models
+
