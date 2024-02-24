@@ -21,12 +21,12 @@ the dictionary.
 
 - `dgl_cora.ipynb` file with a description of the model architecture, 
   its training, as well as an inference.
-- `GCN.py` file describing the architecture of the GCN model.
-- `APPNP.py` file describing the architecture of the [APPNP][appnp] model.
-- `CRD_CLS.py` file describing the architecture of the [CRD_CLS][crd_cls] model.
-- `gcn_model.pt` GCN model file in **pt** format.
-- `appnp_model.pt` APPNP model file in **pt** format.
-- `crd_cls_model.pt` CRD_CLS model file in **pt** format.
+- `/GCN/GCN.py` file describing the architecture of the GCN model.
+- `/GCN/gcn_model.pt` GCN model file in **pt** format.
+- `/APPNP/APPNP.py` file describing the architecture of the [APPNP][appnp] model.
+- `/APPNP/appnp_model.pt` APPNP model file in **pt** format.
+- `/CRD_CLS/crd_cls_model.pt` CRD_CLS model file in **pt** format.
+- `/CRD_CLS/CRD_CLS.py` file describing the architecture of the [CRD_CLS][crd_cls] model.
 
 ## Usage
 
